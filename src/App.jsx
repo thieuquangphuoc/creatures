@@ -7,7 +7,7 @@ function App() {
         <div>
             <Header title="Sleeping Creatures" />
             <CreatureField />
-            <Footer text="Made with React" />
+            <Footer text="Thieu Quang Phuoc - Nguyen Viet Anh" />
         </div>
     );
 }
